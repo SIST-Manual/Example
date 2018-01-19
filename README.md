@@ -5,4 +5,6 @@ Put your problem description here. Only English required. Translation can come l
 
 ## Example I/O
 
-## Hint(If you have)
+## Link to OJ
+
+## Hint or Solution
